@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-yeong&theme=react&show_icons=true)
+안녕하세요. 김세영입니다.
 
 ## 🛠 Tech Stacks  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
