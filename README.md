@@ -18,7 +18,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## ✏ Blog
-### [Notion](https://www.notion.so/Nodejs-81eb4619f3b847cf8379b1935d453b60)
+### [Notion](https://www.notion.so/5194d28ce8204996a80e58492a18b26a)
 <!--
 **kim-se-yeong/kim-se-yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
