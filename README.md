@@ -7,7 +7,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ## ✏ Blog
-### [Notion](https://yeongnius.tistory.com/)
+### [Tstory](https://yeongnius.tistory.com/)
 <!--
 **kim-se-yeong/kim-se-yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
