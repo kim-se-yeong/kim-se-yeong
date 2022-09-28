@@ -1,12 +1,12 @@
 ## Hi there 👋
 안녕하세요. 김세영입니다.
 
-## 🛠 Tech Stacks  
+## Tech Stacks  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## ✏ Blog
+## Blog
 ### [Tstory](https://yeongnius.tistory.com/)
 <!--
 **kim-se-yeong/kim-se-yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
